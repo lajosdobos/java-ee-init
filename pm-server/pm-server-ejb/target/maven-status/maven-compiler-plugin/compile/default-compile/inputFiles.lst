@@ -1,0 +1,6 @@
+/home/oracle/git/projectmanagement/pm-server/pm-server-ejb/src/main/java/oracle/iqjb/hu/pm/service/interceptor/LoggerInterceptor.java
+/home/oracle/git/projectmanagement/pm-server/pm-server-ejb/src/main/java/oracle/iqjb/hu/repository/department/DepartmentRepository.java
+/home/oracle/git/projectmanagement/pm-server/pm-server-ejb/src/main/java/oracle/iqjb/hu/repository/department/DepartmentRepository2.java
+/home/oracle/git/projectmanagement/pm-server/pm-server-ejb/src/main/java/oracle/iqjb/hu/pm/service/department/DepartmentSessionServiceRemote.java
+/home/oracle/git/projectmanagement/pm-server/pm-server-ejb/src/main/java/oracle/iqjb/hu/pm/service/department/DepartmentSessionService.java
+/home/oracle/git/projectmanagement/pm-server/pm-server-ejb/src/main/java/oracle/iqjb/hu/repository/department/DepartmentRepository1.java

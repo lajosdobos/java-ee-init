@@ -1,0 +1,6 @@
+oracle/iqjb/hu/repository/department/DepartmentRepository.class
+oracle/iqjb/hu/pm/service/interceptor/LoggerInterceptor.class
+oracle/iqjb/hu/repository/department/DepartmentRepository1.class
+oracle/iqjb/hu/pm/service/department/DepartmentSessionService.class
+oracle/iqjb/hu/pm/service/department/DepartmentSessionServiceRemote.class
+oracle/iqjb/hu/repository/department/DepartmentRepository2.class
